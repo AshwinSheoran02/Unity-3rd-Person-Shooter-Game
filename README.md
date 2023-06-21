@@ -8,7 +8,7 @@ The game focuses on stealth-based gameplay and requires players to plan strategi
 
 ***Download The Windows game from `TemporalEnforcer.zip`***
 
-In Game Screenshots
+# In Game Screenshots
 
 <img width="1280" alt="Screenshot 2023-06-21 231957" src="https://github.com/AshwinSheoran02/Unity-3rd-Person-Shooter-Game/assets/88393756/fb0bfe7b-9092-4c98-ada7-239bd7418568">
 
