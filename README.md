@@ -17,3 +17,6 @@ The game focuses on stealth-based gameplay and requires players to plan strategi
 
 <img width="1280" alt="Screenshot 2023-06-21 231957" src="https://github.com/AshwinSheoran02/Unity-3rd-Person-Shooter-Game/assets/88393756/fb0bfe7b-9092-4c98-ada7-239bd7418568">
 
+<img width="619" alt="Screenshot 2023-04-23 205724" src="https://github.com/user-attachments/assets/ef6fa3c9-a031-4415-8e1c-5a92353c3794" />
+
+
